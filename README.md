@@ -1,108 +1,52 @@
-# 📘 GitHub Desktop 日本語マップ  
-GitHub Desktop の画面構造・用語・入力フィールドを体系的に整理した日本語マップです。  
-このリポジトリは、**GitHub Desktop を業務で使う人が迷わないための辞書**として機能します。
+# GitHub Desktop 日本語ガイド（非公式）
+
+このリポジトリは、GitHub Desktop の画面構造・操作手順・フィールド説明を  
+**日本語で体系的にまとめたドキュメント集**です。
+
+GitHub Desktop を初めて使う人や、  
+家族・チームに操作を説明したい人向けに作成しています。
 
 ---
 
-## 🎯 このリポジトリの目的
+## 📚 ドキュメント一覧
 
-- GitHub Desktop の UI を **日本語で体系化**する  
-- 画面ごとの **入力フィールドの意味・使い方**を整理する  
-- 新規メンバーや後継者が **迷わず使える業務資産**を作る  
-- あなた自身が **将来見返しても理解できる知識体系**を残す  
-- GitHub Desktop のアップデートに合わせて **継続的に更新できる構造**を作る
+### 1. 画面別フィールド辞書（fields-guide）
+GitHub Desktop の主要3画面を日本語で解説しています。
 
----
-
-## 📁 フォルダ構造
-
-```
-github-desktop-japanese-map/
-├── README.md
-├── docs/
-│   ├── translation/
-│   │   └── github-desktop/
-│   │       ├── github-desktop-ja.md
-│   │       └── fields-guide/
-│   │           ├── clone-screen.md
-│   │           ├── create-repo-screen.md
-│   │           └── add-existing-screen.md
-└── assets/
-    └── screenshots/
-```
-
-### 各フォルダの役割
-
-- **docs/translation/github-desktop/**  
-  GitHub Desktop の UI 日本語マップ（全体）
-
-- **docs/translation/github-desktop/fields-guide/**  
-  画面ごとの入力フィールド辞書  
-  - Clone  
-  - Create new repository  
-  - Add existing repository  
-
-- **assets/screenshots/**  
-  画面キャプチャを保存する場所  
-  → Markdown と組み合わせて視覚的に理解しやすくする
+- [Clone Screen](docs/translation/github-desktop/fields-guide/clone-screen.md)  
+- [Create Repository Screen](docs/translation/github-desktop/fields-guide/create-repo-screen.md)  
+- [Add Existing Repository Screen](docs/translation/github-desktop/fields-guide/add-existing-screen.md)
 
 ---
 
-## 🧭 このリポジトリの使い方
-
-### 1. **GitHub Desktop の画面を確認したいとき**
-`github-desktop-ja.md` を開く  
-→ 全体の UI マップを確認できる
-
-### 2. **特定の画面の入力項目を知りたいとき**
-`fields-guide/` の各ファイルを見る  
-→ Clone / Create / Add existing の意味がすぐ分かる
-
-### 3. **新しい画面を追加したいとき**
-1. `assets/screenshots/` に画像を追加  
-2. `fields-guide/` に Markdown を追加  
-3. README にリンクを追加（任意）
+### 2. トップページ（GitHub Desktop 全体ガイド）
+- [github-desktop-ja.md](docs/translation/github-desktop/github-desktop-ja.md)
 
 ---
 
-## 🛠️ 運用ルール（後継者向け）
+### 3. ワークフローガイド（PDF & Markdown）
+GitHub Desktop の基本操作をまとめたガイドです。
 
-- **原則として Markdown で記述する**  
-  → GitHub 上で読みやすく、差分管理がしやすい
-
-- **画像は assets/screenshots に保存する**  
-  → 画像の散乱を防ぐ
-
-- **画面ごとのファイル名は英語で統一**  
-  → GitHub Desktop の UI と対応させるため
-
-- **更新時は必ずコミットメッセージに内容を書く**  
-  例：  
-  `Add: clone-screen field descriptions`  
-  `Update: Japanese map for v3.4 UI`
+- [workflow-guide.md](workflow-guide.md)  
+- workflow-guide.pdf（リポジトリ内に同梱）
 
 ---
 
-## 🔄 今後の拡張予定
+## 🗂 リポジトリ構造
 
-- GitHub Desktop のバージョンごとの差分管理  
-- よくあるエラーと対処法  
-- GitHub Desktop → VS Code の連携ガイド  
-- GitHub Flow / Pull Request の日本語マップ  
-- 家族・後継者向けの「GitHub 入門書」化
+github-desktop-japanese-map/ ├── README.md ├── workflow-guide.md ├── docs/ │   ├── assets/ │   │   └── screenshots/        ← スクショはここに追加 │   └── translation/ │       └── github-desktop/ │           ├── github-desktop-ja.md │           └── fields-guide/ │               ├── clone-screen.md │               ├── create-repo-screen.md │               └── add-existing-screen.md
+
 
 ---
 
-## 👤 作成者メモ（あなた自身のための欄）
+## 📷 スクリーンショットについて
 
-- このリポジトリは **業務資産**として長期運用する  
-- GitHub Desktop の UI を体系化し、  
-  **誰が見ても理解できる知識体系**を作ることが目的  
-- 画面キャプチャは随時追加してよい  
-- Markdown は VS Code で編集すると効率が良い
+現在、スクリーンショットは準備中です。  
+アップロード制限が解除され次第、順次追加します。
 
 ---
 
-# ✅ README.md 完成  
-この内容をそのまま **README.md に貼り付けてコミット**すれば、  
-あなたのリポジトリは「資産」としての形が整う。
+## 📄 ライセンス
+
+このドキュメントは個人利用を目的として作成されています。  
+必要に応じて自由に編集してご利用ください。

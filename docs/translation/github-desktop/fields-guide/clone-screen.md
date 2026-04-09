@@ -45,3 +45,7 @@ GitHub Desktop の **Clone a Repository** 画面のフィールド説明です�
 
 - [Create Repository Screen](create-repo-screen.md)  
 - [Add Existing Repository Screen](add-existing-screen.md)
+
+## 📷 スクリーンショット
+
+※ 明日ここに画像を追加する
