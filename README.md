@@ -7,6 +7,10 @@ GitHub Desktop を初めて使う人や、
 家族・チームに操作を説明したい人向けに作成しています。
 
 ---
+## 📘 GitHub Desktop 日本語マップ
+
+👉 [日本語マップはこちら](docs/translation/github-desktop/github-desktop-ja.md)
+
 
 ## 📚 ドキュメント一覧
 

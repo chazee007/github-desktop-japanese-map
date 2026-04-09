@@ -1,44 +1,56 @@
 # 🖥 GitHub Desktop 日本語マップ（UI 全体構造）
 
-GitHub Desktop の画面構造・用語・入力フィールドを体系的に整理した日本語マップです。  
-このドキュメントは、**GitHub Desktop を業務で使う人が迷わないための辞書**として機能します。
+GitHub Desktop の画面構造・用語・入力フィールドを
+日本語で体系的に整理した業務資産ドキュメントです。
+新規メンバーや後継者が迷わず使えるよう、
+画面ごとのフィールド説明・操作手順・用語辞書をまとめています。。
 
 ---
 
-## 📌 目的
+## 📌 この資料の目的
 
-- GitHub Desktop の UI を **日本語で体系化**する  
-- 画面ごとの **入力フィールドの意味・使い方**を整理する  
-- 新規メンバーや後継者が **迷わず使える業務資産**を作る  
-- あなた自身が **将来見返しても理解できる知識体系**を残す  
-- GitHub Desktop のアップデートに合わせて **継続的に更新できる構造**を作る  
+• 	GitHub Desktop の UI を 日本語で体系化する
+• 	画面ごとの 入力フィールドの意味・使い方を整理する
+• 	新規メンバーや後継者が 迷わず作業できる基盤を作る
+• 	あなた自身が 将来見返しても理解できる辞書として機能させる
+• 	バージョンアップに合わせて 継続的に更新できる構造を作る 
 
 ---
 
 ## 🗂 画面一覧（トップレベル）
 
-- **Repository（リポジトリ）画面**
-- **Changes（変更）画面**
-- **History（履歴）画面**
-- **Clone a Repository（リポジトリをクローン）画面**
-- **Create a New Repository（新規リポジトリ作成）画面**
-- **Add Existing Repository（既存リポジトリ追加）画面**
-- **Branch（ブランチ）関連画面**
+- **Repository（リポジトリ）**
+- **Changes（変更）**
+- **History（履歴）**
+- **Clone a Repository（リポジトリをクローン）**
+- **Create a New Repository（新規リポジトリ作成）**
+- **Add Existing Repository（既存リポジトリ追加）**
+- **Branch（ブランチ）関連**
 - **Fetch / Pull / Push 操作**
-- **設定（Options / Preferences）**
+- **設定（ Preferences / Options）**
 
 ---
 
 ## 🧭 画面構造マップ（概要）
 
 
-GitHub Desktop ├── メインメニュー（File / Edit / View / Repository / Branch / Help） ├── 左サイドバー │   ├── Current Repository │   ├── Branch │   └── Changes / History └── メインビュー ├── Changes（変更差分） ├── History（コミット履歴） ├── リポジトリ操作画面 └── 設定画面
+GitHub Desktop
+├── メインメニュー（File / Edit / View / Repository / Branch / Help）
+├── 左サイドバー
+│   ├── Current Repository
+│   ├── Branch
+│   └── Changes / History
+└── メインビュー
+    ├── Changes（変更差分）
+    ├── History（コミット履歴）
+    ├── リポジトリ操作画面
+    └── 設定画面
 
 
 
 ---
 
-## 📝 用語（基本）
+## 📝 基本用語
 
 | 英語 | 日本語 | 説明 |
 |------|--------|------|
@@ -76,9 +88,9 @@ GitHub Desktop ├── メインメニュー（File / Edit / View / Repository
 
 GitHub Desktop の主要画面ごとのフィールド説明です。
 
-- 👉 [Clone Screen（クローン画面）](fields-guide/clone-screen.md)
-- 👉 [Create Repository Screen（新規リポジトリ作成）](fields-guide/create-repo-screen.md)
-- 👉 [Add Existing Repository Screen（既存リポジトリ追加）](fields-guide/add-existing-screen.md)
+• 👉 [Clone Screen](fields-guide/clone-screen.md)
+• 👉 [Create Repository Screen](fields-guide/create-repo-screen.md)
+• 👉 [Add Existing Repository Screen](fields-guide/add-existing-screen.md)
 
 ---
 
@@ -87,11 +99,11 @@ GitHub Desktop の主要画面ごとのフィールド説明です。
 GitHub Desktop と VSCode を使った  
 **完全作業手順書（PDF）** はこちら：
 
-👉 [workflow-guide.pdf](../../../workflow-guide.pdf)
+👉 [workflow-guide.pdf](../../../../workflow-guide.pdf)
 
 Markdown 版はこちら：
 
-👉 [workflow-guide.md](../../../workflow-guide.md)
+👉 [workflow-guide.md](../../../../workflow-guide.md)
 
 ---
 

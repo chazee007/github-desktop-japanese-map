@@ -1,7 +1,7 @@
 # 🖥 Clone Screen（クローン画面）
 
 GitHub Desktop の **Clone a Repository** 画面のフィールド説明です。  
-ローカルにリポジトリを複製するときに使用します。
+GitHub 上のリポジトリをローカルに複製するときに使用します。
 
 ---
 
@@ -32,12 +32,10 @@ GitHub Desktop の **Clone a Repository** 画面のフィールド説明です�
 
 ---
 
-## 📷 スクリーンショット（任意）
+## 📷 スクリーンショット（準備中）
 
-画像を追加する場合は `docs/assets/screenshots/` に保存し、  
-以下のように貼り付けます：
-
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう！]
+画像は `docs/assets/screenshots/` に保存します。  
+アップロード制限解除後に追加予定。
 
 ---
 
@@ -46,6 +44,3 @@ GitHub Desktop の **Clone a Repository** 画面のフィールド説明です�
 - [Create Repository Screen](create-repo-screen.md)  
 - [Add Existing Repository Screen](add-existing-screen.md)
 
-## 📷 スクリーンショット
-
-※ 明日ここに画像を追加する

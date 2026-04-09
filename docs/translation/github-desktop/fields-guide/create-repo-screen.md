@@ -35,12 +35,10 @@ GitHub Desktop の **Create a New Repository** 画面のフィールド説明で
 
 ---
 
-## 📷 スクリーンショット（任意）
+## 📷 スクリーンショット（準備中）
 
-画像を追加する場合は `docs/assets/screenshots/` に保存し、  
-以下のように貼り付けます：
-
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう！]
+画像は `docs/assets/screenshots/` に保存します。  
+アップロード制限解除後に追加予定。
 
 ---
 
@@ -49,6 +47,3 @@ GitHub Desktop の **Create a New Repository** 画面のフィールド説明で
 - [Clone Screen](clone-screen.md)  
 - [Add Existing Repository Screen](add-existing-screen.md)
 
-## 📷 スクリーンショット
-
-※ 明日ここに画像を追加する
