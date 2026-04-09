@@ -1,0 +1,50 @@
+# 🏗 Create Repository Screen（新規リポジトリ作成画面）
+
+GitHub Desktop の **Create a New Repository** 画面のフィールド説明です。  
+ローカルに新しいリポジトリを作成するときに使用します。
+
+---
+
+## 📌 画面の目的
+- 新しい Git リポジトリをローカルに作成する  
+- GitHub へ公開する準備をする  
+- プロジェクトの初期構造を整える  
+
+---
+
+## 📁 フィールド一覧
+
+| フィールド名 | 日本語 | 説明 |
+|--------------|--------|------|
+| Name | 名前 | リポジトリ名（フォルダ名にもなる） |
+| Description | 説明 | 任意の説明文 |
+| Local Path | ローカルパス | 保存先フォルダ |
+| Initialize this repository with a README | README を作成 | 初期 README.md を自動生成 |
+| Git Ignore | Git Ignore | 除外設定（任意） |
+| License | ライセンス | ライセンスを付与（任意） |
+| Create Repository | 作成 | リポジトリを作成するボタン |
+
+---
+
+## 📝 操作手順（簡易）
+
+1. Name を入力  
+2. 保存先フォルダを選択  
+3. 必要なら README / Git Ignore / License を設定  
+4. Create Repository を押す  
+
+---
+
+## 📷 スクリーンショット（任意）
+
+画像を追加する場合は `docs/assets/screenshots/` に保存し、  
+以下のように貼り付けます：
+
+[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう！]
+
+---
+
+## 🗂 関連リンク
+
+- [Clone Screen](clone-screen.md)  
+- [Add Existing Repository Screen](add-existing-screen.md)
