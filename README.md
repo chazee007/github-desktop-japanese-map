@@ -1,3 +1,5 @@
+![GitHub Desktop Screenshot](docs/translation/github-desktop/fields-guide/screenshots/clone-screen.png)
+
 # GitHub Desktop 日本語ガイド（非公式）
 
 このリポジトリは、GitHub Desktop の画面構造・操作手順・フィールド説明を  

@@ -1,3 +1,5 @@
+![Add Existing Repository Screen](../screenshots/add-existing-screen.png)
+
 # 📂 Add Existing Repository Screen（既存リポジトリ追加画面）
 
 GitHub Desktop の **Add Existing Repository** 画面のフィールド説明です。  
@@ -32,7 +34,7 @@ GitHub Desktop の **Add Existing Repository** 画面のフィールド説明で
 
 ## 📷 スクリーンショット（準備中）
 
-画像は `docs/assets/screenshots/` に保存します。  
+画像は `docs/translation/github-desktop/fields-guide/screenshots/` に保存します。  
 アップロード制限解除後に追加予定。
 
 ---

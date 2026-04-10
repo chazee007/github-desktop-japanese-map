@@ -33,8 +33,9 @@ GitHub 上のリポジトリをローカルに複製するときに使用しま�
 ---
 
 ## 📷 スクリーンショット（準備中）
+![Clone Screen](../screenshots/clone-screen.png)
 
-画像は `docs/assets/screenshots/` に保存します。  
+画像は `docs/translation/github-desktop/fields-guide/screenshots/` に保存します。  
 アップロード制限解除後に追加予定。
 
 ---

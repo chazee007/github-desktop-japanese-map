@@ -1,3 +1,5 @@
+![Create Repository Screen](../screenshots/create-repo-screen.png)
+
 # 🏗 Create Repository Screen（新規リポジトリ作成画面）
 
 GitHub Desktop の **Create a New Repository** 画面のフィールド説明です。  
@@ -37,7 +39,7 @@ GitHub Desktop の **Create a New Repository** 画面のフィールド説明で
 
 ## 📷 スクリーンショット（準備中）
 
-画像は `docs/assets/screenshots/` に保存します。  
+画像は `docs/translation/github-desktop/fields-guide/screenshots/` に保存します。  
 アップロード制限解除後に追加予定。
 
 ---
