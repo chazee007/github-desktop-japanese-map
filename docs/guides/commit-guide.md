@@ -14,6 +14,10 @@ GitHub 上の既存リポジトリを
 
 ---
 
+![alt text](commit-guide.png)
+
+![alt text](commit-guide-Commit.png)
+
 ## 📝 入力欄ガイド
 
 ### 1. **URL（Repository URL）**
