@@ -14,6 +14,9 @@
 
 ---
 
+![alt text](<push-guide-Push origin.png>)
+
+
 ## 📝 Push の基本
 
 ### Push とは？
