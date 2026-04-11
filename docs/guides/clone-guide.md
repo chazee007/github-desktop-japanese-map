@@ -1,0 +1,80 @@
+# 🟦 GitHub Desktop：リポジトリをクローンするガイド（Clone Repository）
+
+GitHub 上の既存リポジトリを  
+あなたの PC にコピー（クローン）する手順をまとめたガイド。
+
+後継者が見ても迷わないように、  
+入力欄の意味・操作手順・スクショ枠を含めて構成している。
+
+---
+
+## 📷 画面スクショ
+※ ここにあなたが撮った「Clone a repository」画面のスクショを貼る  
+（GitHub Desktop → File → Clone Repository）
+
+---
+
+## 📝 入力欄ガイド
+
+### 1. **URL（Repository URL）**
+- **意味**：クローンしたい GitHub リポジトリの URL  
+- **入力内容**：GitHub の “Code” ボタンからコピーした URL  
+- **例**：  
+  - `https://github.com/charjee/photo-organizer.git`
+  - `https://github.com/charjee/github-desktop-japanese-manual.git`
+
+---
+
+### 2. **Local Path（保存先フォルダ）**
+- **意味**：PC 上の保存場所  
+- **操作**：`Choose...` を押してフォルダを選ぶ  
+- **推奨**：  
+  - `C:/Users/charjee/Documents/GitHub/`  
+  - `D:/Projects/`  
+- **注意**：  
+  - OneDrive 内は避ける（あなたの方針）  
+  - 日本語フォルダ名は避けるとトラブルが少ない
+
+---
+
+### 3. **Clone ボタン**
+- **意味**：クローン開始  
+- **押すタイミング**：  
+  - URL  
+  - Local Path  
+  が設定できたら押す
+
+---
+
+## 🟦 クローン後にやること（あなたの作業フロー）
+
+1. GitHub Desktop が自動でリポジトリを読み込む  
+2. 右上の **Open in VS Code** を押す  
+3. VS Code で README や資料を確認  
+4. 編集したら GitHub Desktop に戻って Commit → Push
+
+---
+
+## 🟦 注意点（あなた専用メモ）
+
+- URL は必ず `.git` で終わる  
+- 保存先は OneDrive を避ける  
+- フォルダ名は英語に統一  
+- クローン後は VS Code で資料を横に置くと作業が楽
+
+---
+
+## 📷 追加スクショ枠
+
+### URL 入力欄のスクショ
+（ここに貼る）
+
+### Local Path のスクショ
+（ここに貼る）
+
+### Clone ボタンのスクショ
+（ここに貼る）
+
+---
+
+以上が **クローン画面の完全ガイド**。
