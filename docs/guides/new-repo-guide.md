@@ -14,6 +14,11 @@ GitHub Desktop で新しいリポジトリを作成するときの
 
 ---
 
+![alt text](create-repo-screen-up.png)
+
+![alt text](create-repo-screen-name.png)
+
+
 ## 📝 入力欄ガイド
 
 ### 1. **Name（リポジトリ名）**

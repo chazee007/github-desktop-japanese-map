@@ -14,6 +14,10 @@
 
 ---
 
+![alt text](<Current Branch-Tab.png>)
+
+![alt text](<Current Branch-Tab-name.png>)
+
 # 🟦 ブランチとは？
 
 - **main を壊さずに作業するための “別の作業ライン”**  

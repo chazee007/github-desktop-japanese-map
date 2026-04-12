@@ -44,8 +44,15 @@ GitHub Desktop の **Create a New Repository** 画面のフィールド説明で
 
 ---
 
+![alt text](create-repo-screen-up.png)
+
+![alt text](create-repo-screen-name.png)
+
+![alt text](<create-repo-screen-Local Path.png>)
+
 ## 🗂 関連リンク
 
 - [Clone Screen](clone-screen.md)  
 - [Add Existing Repository Screen](add-existing-screen.md)
 
+--

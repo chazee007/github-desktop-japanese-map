@@ -14,6 +14,10 @@ GitHub 上の既存リポジトリを
 
 ---
 
+![alt text](<Clone Repository-up.png>)
+
+![alt text](<Clone Repository-URL.png>)
+
 ## 📝 入力欄ガイド
 
 ### 1. **URL（Repository URL）**

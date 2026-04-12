@@ -1,69 +1,58 @@
-![GitHub Desktop Screenshot](docs/translation/github-desktop/fields-guide/screenshots/clone-screen.png)
+📘 GitHub Desktop 日本語ガイド（後継者向け技術資産）
+本リポジトリは、GitHub Desktop の基本操作を体系的に理解し、
+後継者が迷わず作業できるように構築した 技術資産 です。
+操作手順・画面構造・用語の意味を、スクリーンショット付きで整理しています。
 
-# GitHub Desktop 日本語ガイド（非公式）
+📚 推奨の読み順（最短で理解するための導線）
+GitHub Desktop を初めて扱う後継者でも迷わないよう、
+以下の順番で読むことを推奨します。
+1. 	新規リポジトリ作成（new-repo-guide）
+2. 	リポジトリのクローン（clone-guide）
+3. 	コミットの基本操作（commit-guide）
+4. 	変更をリモートへ送る（push-guide）
+5. 	ブランチの作成と切り替え（branch-guide）
 
-このリポジトリは、GitHub Desktop の画面構造・操作手順・フィールド説明を  
-**日本語で体系的にまとめたドキュメント集**です。
+📂 操作ガイド（guides）
+各ガイドはスクリーンショット付きで、
+「どこを押すか」「どう進むか」が一目でわかる構成です。
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!] 	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
 
-GitHub Desktop を初めて使う人や、  
-家族・チームに操作を説明したい人向けに作成しています。
+🧭 画面要素辞書（fields-guide）
+GitHub Desktop の画面に表示される
+ボタン・メニュー・用語の意味をまとめた辞書 です。
+操作中に迷ったときはここを参照してください。
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
+• [この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]  	
 
----
-## 📘 GitHub Desktop 日本語マップ
+🎯 目的別ショートカット
+やりたいことから最短でガイドに飛べます。
+• 	コミットしたい → commit-guide
+• 	Push ができない → push-guide
+• 	ブランチを作りたい → branch-guide
+• 	画面の意味がわからない → fields-guide
+• 	最初から順に学びたい → 推奨の読み順へ
 
-👉 [日本語マップはこちら](docs/translation/github-desktop/github-desktop-ja.md)
+🗂 リポジトリ構成
 
+github-desktop-japanese-map/
+├── guides/
+│   ├── new-repo-guide.md
+│   ├── clone-guide.md
+│   ├── commit-guide.md
+│   ├── push-guide.md
+│   └── branch-guide.md
+├── fields-guide/
+│   ├── fields-guide-1.md
+│   ├── fields-guide-2.md
+│   └── fields-guide-3.md
+└── README.md
 
-## 📚 ドキュメント一覧
-
-### 1. 画面別フィールド辞書（fields-guide）
-GitHub Desktop の主要3画面を日本語で解説しています。
-
-- [Clone Screen](docs/translation/github-desktop/fields-guide/clone-screen.md)  
-- [Create Repository Screen](docs/translation/github-desktop/fields-guide/create-repo-screen.md)  
-- [Add Existing Repository Screen](docs/translation/github-desktop/fields-guide/add-existing-screen.md)
-
----
-
-### 2. トップページ（GitHub Desktop 全体ガイド）
-- [github-desktop-ja.md](docs/translation/github-desktop/github-desktop-ja.md)
-
----
-
-### 3. ワークフローガイド（PDF & Markdown）
-GitHub Desktop の基本操作をまとめたガイドです。
-
-- [workflow-guide.md](workflow-guide.md)  
-- workflow-guide.pdf（リポジトリ内に同梱）
-
----
-
-## 🗂 リポジトリ構造
-
-github-desktop-japanese-map/ ├── README.md ├── workflow-guide.md ├── docs/ │   ├── assets/ │   │   └── screenshots/        ← スクショはここに追加 │   └── translation/ │       └── github-desktop/ │           ├── github-desktop-ja.md │           └── fields-guide/ │               ├── clone-screen.md │               ├── create-repo-screen.md │               └── add-existing-screen.md
-
-
----
-
-## 📷 スクリーンショットについて
-
-現在、スクリーンショットは準備中です。  
-アップロード制限が解除され次第、順次追加します。
-
----
-
-## 📷 スクリーンショット
-
-### 1. GitHub Desktop のメイン画面
-（ここに貼る）
-
-### 2. 日本語マップの画面
-（ここに貼る）
-
-### 3. 使い方の流れ（任意）
-（ここに貼る）
-
-## 📄 ライセンス
-
-このドキュメントは個人利用を目的として作成されています。  
-必要に応じて自由に編集してご利用ください。
+📝 最後に
+このリポジトリは、後継者が GitHub Desktop を迷わず扱えるよう
+操作手順と画面構造を体系化した技術資産です。
+必要に応じて内容を更新し、継続的に改善していくことを推奨します。

@@ -39,6 +39,11 @@ GitHub 上のリポジトリをローカルに複製するときに使用しま�
 アップロード制限解除後に追加予定。
 
 ---
+![alt text](<Clone Repository-up.png>)
+
+![alt text](<Clone Repository-URL.png>)
+
+![alt text](<Clone Repository-Loca Path.png>)
 
 ## 🗂 関連リンク
 
