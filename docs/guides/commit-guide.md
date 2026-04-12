@@ -1,84 +1,64 @@
-# 🟦 GitHub Desktop：リポジトリをクローンするガイド（Clone Repository）
+🟦 GitHub Desktop：コミットの基本操作ガイド（Commit Guide）
+GitHub Desktop で行う
+「変更を記録する（コミット）」操作 をまとめたガイド。
+後継者が見ても迷わないように、
+操作手順・注意点・スクショ枠を含めて構成している。
 
-GitHub 上の既存リポジトリを  
-あなたの PC にコピー（クローン）する手順をまとめたガイド。
+📷 画面スクショ
+※ ここにあなたが撮った「Commit to main」画面のスクショを貼る
+（GitHub Desktop → 左側の変更一覧 → Summary → Commit to main）
 
-後継者が見ても迷わないように、  
-入力欄の意味・操作手順・スクショ枠を含めて構成している。
+![alt text](commit-guide-1.png)
 
----
+![alt text](commit-guide-Commit-1.png)
 
-## 📷 画面スクショ
-※ ここにあなたが撮った「Clone a repository」画面のスクショを貼る  
-（GitHub Desktop → File → Clone Repository）
 
----
+📝 コミットとは？
+• 	変更を記録する操作
+• 	GitHub に送る前の “下書き保存” のようなもの
+• 	コミットしないと Push できない
+• 	後継者が変更内容を追跡できるようになる
 
-![alt text](commit-guide.png)
+🟦 コミットの流れ（基本操作）
+1. 変更されたファイルを確認する
+左側の Changes に変更されたファイルが一覧で表示される。
+• 	追加されたファイル
+• 	修正されたファイル
+• 	削除されたファイル
 
-![alt text](commit-guide-Commit.png)
+2. Summary（必須）を入力する
+変更内容を一言で書く欄。
+例：
+• 	
+• 	
+• 	
+※ 後継者が見ても意味がわかる内容にする。
 
-## 📝 入力欄ガイド
+3. Description（任意）
+必要なら詳細を書く。
+例：
+• 	
+• 	
 
-### 1. **URL（Repository URL）**
-- **意味**：クローンしたい GitHub リポジトリの URL  
-- **入力内容**：GitHub の “Code” ボタンからコピーした URL  
-- **例**：  
-  - `https://github.com/charjee/photo-organizer.git`
-  - `https://github.com/charjee/github-desktop-japanese-manual.git`
+4. Commit to main を押す
+これで変更が “main に記録される”。
 
----
+🟦 コミット後にやること（Push）
+コミットしただけでは GitHub に反映されない。
+1. 	左上に Push origin が表示される
+2. 	Push origin をクリック
+3. 	GitHub に変更が送信される
 
-### 2. **Local Path（保存先フォルダ）**
-- **意味**：PC 上の保存場所  
-- **操作**：`Choose...` を押してフォルダを選ぶ  
-- **推奨**：  
-  - `C:/Users/charjee/Documents/GitHub/`  
-  - `D:/Projects/`  
-- **注意**：  
-  - OneDrive 内は避ける（あなたの方針）  
-  - 日本語フォルダ名は避けるとトラブルが少ない
+🟦 注意点（あなた専用メモ）
+• 	Summary は必ず書く（空欄だとコミットできない）
+• 	1 コミットは 1 つの目的にまとめると後継者が理解しやすい
+• 	コミット → Push の順番を忘れない
+• 	オフライン時はコミットだけしておいて、後で Push すればOK
 
----
-
-### 3. **Clone ボタン**
-- **意味**：クローン開始  
-- **押すタイミング**：  
-  - URL  
-  - Local Path  
-  が設定できたら押す
-
----
-
-## 🟦 クローン後にやること（あなたの作業フロー）
-
-1. GitHub Desktop が自動でリポジトリを読み込む  
-2. 右上の **Open in VS Code** を押す  
-3. VS Code で README や資料を確認  
-4. 編集したら GitHub Desktop に戻って Commit → Push
-
----
-
-## 🟦 注意点（あなた専用メモ）
-
-- URL は必ず `.git` で終わる  
-- 保存先は OneDrive を避ける  
-- フォルダ名は英語に統一  
-- クローン後は VS Code で資料を横に置くと作業が楽
-
----
-
-## 📷 追加スクショ枠
-
-### URL 入力欄のスクショ
+📷 追加スクショ枠
+Summary 入力欄のスクショ
 （ここに貼る）
-
-### Local Path のスクショ
+Commit to main のスクショ
 （ここに貼る）
-
-### Clone ボタンのスクショ
+Push origin のスクショ
 （ここに貼る）
-
----
-
-以上が **クローン画面の完全ガイド**。
