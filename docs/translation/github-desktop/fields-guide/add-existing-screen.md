@@ -39,14 +39,10 @@ GitHub Desktop の **Add Existing Repository** 画面のフィールド説明で
 
 ---
 
-![alt text](<Add Local Repository-up.png>)
-
-![alt text](<Add Local Repository-Local Path.png>)
-
-![alt text](<Add Local Repository-Buttons.png>)
+![alt text](Add Local Repository-up.png)
+![alt text](Add Local Repository-Buttons.png)
 
 ## 🗂 関連リンク
 
 - [Clone Screen](clone-screen.md)  
 - [Create Repository Screen](create-repo-screen.md)
-
