@@ -43,7 +43,6 @@ GitHub 上のリポジトリをローカルに複製するときに使用しま�
 
 ![alt text](<Clone Repository-URL.png>)
 
-![alt text](<Clone Repository-Loca Path.png>)
 
 ## 🗂 関連リンク
 
