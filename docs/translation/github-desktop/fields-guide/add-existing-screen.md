@@ -37,6 +37,10 @@ GitHub Desktop の **Add Existing Repository** 画面のフィールド説明で
 画像は `docs/translation/github-desktop/fields-guide/screenshots/` に保存します。  
 アップロード制限解除後に追加予定。
 
+![alt text](<Add Local Repository-up-3.png>)
+
+![alt text](<Add Local Repository-Local Path-2.png>)
+
 ---
 
 ![alt text](<Add Local Repository-up.png>)
