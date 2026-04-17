@@ -9,9 +9,9 @@ GitHub Desktop で行う
 ※ ここにあなたが撮った「Commit to main」画面のスクショを貼る
 （GitHub Desktop → 左側の変更一覧 → Summary → Commit to main）
 
+![alt text](commit-guide.png)
 
-
-
+![alt text](commit-guide-Commit.png)
 
 
 📝 コミットとは？
