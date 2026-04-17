@@ -14,7 +14,7 @@
 
 ---
 
-![alt text](<push-guide-Push origin.png>)
+![alt text](push-guide.md-pushu_orgin.png)
 
 
 ## 📝 Push の基本
