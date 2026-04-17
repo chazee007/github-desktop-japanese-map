@@ -1,4 +1,5 @@
 🟦 GitHub Desktop：コミットの基本操作ガイド（Commit Guide）
+→ Push
 GitHub Desktop で行う
 「変更を記録する（コミット）」操作 をまとめたガイド。
 後継者が見ても迷わないように、
