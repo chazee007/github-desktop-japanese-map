@@ -47,7 +47,6 @@ GitHub Desktop の操作で「止まる人」をなくすために作られて�
 
 ## 📁 フォルダ構造
 
-
 🗂 リポジトリ構成
 
 github-desktop-japanese-map/
@@ -63,6 +62,12 @@ github-desktop-japanese-map/
 │   └── fields-guide-3.md
 └── README.md
 
+---
+
+## 🖼 代表スクリーンショット（準備中）
+
+※ スクリーンショットは後で追加します  
+※ Clone / Create / Add existing の代表画像をここに並べる予定
 
 ---
 
