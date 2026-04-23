@@ -1,53 +1,63 @@
-![Add Existing Repository Screen](../screenshots/add-existing-screen.png)
+Add Existing Repository 画面ガイド（Screen Guide）
+このページでは GitHub Desktop の「Add Existing Repository」画面 について、
+画面構造・入力欄の意味・操作の流れを日本語で整理しています。
 
-# 📂 Add Existing Repository Screen（既存リポジトリ追加画面）
+🖼 スクリーンショット（全体）
+【スクリーンショット挿入枠】
+（ここに add-existing-screen-up.png を貼る）
 
-GitHub Desktop の **Add Existing Repository** 画面のフィールド説明です。  
-すでにローカルに存在する Git リポジトリを GitHub Desktop に登録するときに使用します。
+📌 1. この画面の目的
+すでにローカルに存在する Git リポジトリを GitHub Desktop に登録する
 
----
+他のツールで作成した Git リポジトリを取り込む
 
-## 📌 画面の目的
-- ローカルにある既存プロジェクトを GitHub Desktop に読み込む  
-- Git 管理されているフォルダを認識させる  
-- 作業を GitHub Desktop 上で継続できるようにする  
+クローン済みのプロジェクトを GitHub Desktop で管理できるようにする
 
----
+後継者が迷いやすいポイント：
 
-## 📁 フィールド一覧
+「Add Existing」は“ローカルにすでにあるものを登録する”操作
 
-| フィールド名 | 日本語 | 説明 |
-|--------------|--------|------|
-| Local Path | ローカルパス | 既存リポジトリのフォルダを指定 |
-| Choose… | フォルダ選択 | フォルダを選ぶためのダイアログ |
-| Add Repository | 追加 | GitHub Desktop に登録するボタン |
+Clone や Create と役割がまったく違う
 
----
+.git フォルダがないと登録できない
 
-## 📝 操作手順（簡易）
+🧩 2. 画面構造（番号つき）
+【番号つきスクショ挿入枠】
+（ここに add-existing-screen-path.png を貼る）
 
-1. Local Path に既存リポジトリのフォルダを指定  
-2. Add Repository を押す  
-3. GitHub Desktop に読み込まれる  
+● ① Local Path（フォルダ選択）
+既存リポジトリのフォルダを指定する欄。
 
----
+● ② Choose…（フォルダ選択ダイアログ）
+ローカルのフォルダを選択する。
 
-## 📷 スクリーンショット（準備中）
+● ③ Add Repository ボタン
+指定したフォルダを GitHub Desktop に登録する。
 
-画像は `docs/translation/github-desktop/fields-guide/screenshots/` に保存します。  
-アップロード制限解除後に追加予定。
+🛠 3. 操作手順（Step-by-Step）
+GitHub Desktop を開く
 
-![alt text](<Add Local Repository-up-3.png>)
+File → Add Local Repository を選択
 
-![alt text](<Add Local Repository-Local Path-2.png>)
+Local Path（フォルダ）を指定
 
----
+.git フォルダが存在することを確認
 
-## 🗂 関連リンク
+Add Repository をクリック
 
-- [Clone Screen](clone-screen.md)  
-- [Create Repository Screen](create-repo-screen.md)
+GitHub Desktop に登録され、管理できるようになる
 
----
+⚠️ 4. よくあるミス・注意点
+.git フォルダがないと「これは Git リポジトリではありません」と表示される
 
-[← トップページに戻る](../README.md)
+間違った階層のフォルダを選ぶと認識されない
+
+Clone と Add Existing を混同しやすい
+
+📎 5. 関連ガイド
+[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+
+[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+
+🔙 戻る
+[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
