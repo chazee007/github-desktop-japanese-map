@@ -3,9 +3,10 @@ Clone Repository 画面ガイド（Screen Guide）
 画面構造・ボタンの意味・操作の流れを日本語で整理しています。
 
 🖼 スクリーンショット（全体）
-コード
+
 【スクリーンショット挿入枠】
-（ここに画像を貼る）
+![alt text](<Clone Repository-up-1.png>)
+
 📌 1. この画面の目的
 GitHub 上にある既存リポジトリをローカルにコピーする
 
@@ -20,9 +21,10 @@ GitHub 上にある既存リポジトリをローカルにコピーする
 保存先フォルダを間違えると混乱しやすい
 
 🧩 2. 画面構造（番号つき）
-コード
+
 【番号つきスクショ挿入枠】
-（ここに画像を貼る）
+![alt text](<Clone Repository-URL-1.png>)
+
 ● ① GitHub.com タブ
 GitHub アカウントに紐づくリポジトリ一覧が表示される。
 
@@ -56,9 +58,9 @@ Clone をクリック
 Private リポジトリは GitHub ログインが必要
 
 📎 5. 関連ガイド
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+- [Create Repository Screen](create-repo-screen.md)
+- [Add Existing Repository Screen](add-existing-screen.md)
 
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
 
 🔙 戻る
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+[← トップページに戻る](../README.md)
