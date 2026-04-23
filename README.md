@@ -64,10 +64,16 @@ github-desktop-japanese-map/
 
 ---
 
-## 🖼 代表スクリーンショット（準備中）
+## 🖼 代表スクリーンショット
 
-※ スクリーンショットは後で追加します  
-※ Clone / Create / Add existing の代表画像をここに並べる予定
+### 🔹 Clone Repository（リポジトリ複製）
+![Clone Repository](assets/screenshots/Clone Repository-up.png)
+
+### 🔹 Create New Repository（新規リポジトリ作成）
+![Create Repository](assets/screenshots/create-repo-screen-up.png)
+
+### 🔹 Add Local Repository（既存フォルダ追加）
+![Add Local Repository](assets/screenshots/Add Local Repository-up.png)
 
 ---
 
