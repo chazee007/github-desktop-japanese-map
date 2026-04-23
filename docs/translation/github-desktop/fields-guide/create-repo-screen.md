@@ -4,7 +4,7 @@ Create Repository 画面ガイド（Screen Guide）
 
 🖼 スクリーンショット（全体）
 【スクリーンショット挿入枠】
-（ここに Create Repository-up.png を貼る）
+![alt text](create-repo-screen-up-1.png)
 
 📌 1. この画面の目的
 新しい Git リポジトリをローカルに作成する
@@ -23,7 +23,7 @@ README を初期化しないと GitHub 上で空の状態になる
 
 🧩 2. 画面構造（番号つき）
 【番号つきスクショ挿入枠】
-（ここに Create Repository-name.png を貼る）
+![alt text](create-repo-screen-name-1.png)
 
 ● ① Name（リポジトリ名）
 作成するリポジトリの名前を入力する欄。
@@ -63,9 +63,9 @@ README を作らずに開始すると GitHub 上で空の状態になる
 名前にスペースを入れると扱いにくい（ハイフン推奨）
 
 📎 5. 関連ガイド
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+- [Clone Screen](clone-screen.md)
+- [Add Existing Repository Screen](add-existing-screen.md)
 
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
 
 🔙 戻る
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+[← トップページに戻る](../README.md)
