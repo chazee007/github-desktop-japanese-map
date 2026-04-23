@@ -4,7 +4,7 @@ Add Existing Repository 画面ガイド（Screen Guide）
 
 🖼 スクリーンショット（全体）
 【スクリーンショット挿入枠】
-（ここに add-existing-screen-up.png を貼る）
+![alt text](<Add Local Repository-up-4.png>)
 
 📌 1. この画面の目的
 すでにローカルに存在する Git リポジトリを GitHub Desktop に登録する
@@ -23,7 +23,7 @@ Clone や Create と役割がまったく違う
 
 🧩 2. 画面構造（番号つき）
 【番号つきスクショ挿入枠】
-（ここに add-existing-screen-path.png を貼る）
+![alt text](<Add Local Repository-Local Path-3.png>)
 
 ● ① Local Path（フォルダ選択）
 既存リポジトリのフォルダを指定する欄。
@@ -55,9 +55,9 @@ GitHub Desktop に登録され、管理できるようになる
 Clone と Add Existing を混同しやすい
 
 📎 5. 関連ガイド
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+- [Clone Screen](clone-screen.md)
+- [Create Repository Screen](create-repo-screen.md)
 
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
 
 🔙 戻る
-[この結果は、表示するには安全でなかったようです。切り替えて、別のことを試してみましょう!]
+[← トップページに戻る](../README.md)
