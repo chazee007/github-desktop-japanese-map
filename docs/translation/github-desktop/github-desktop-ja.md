@@ -135,3 +135,7 @@ docs/ translation/ github-desktop/ github-desktop-ja.md  ← このページ fie
 ## 📷 画面一覧（スクリーンショット）
 
 ※ 明日ここに画像を追加する予定
+
+---
+
+[← トップページに戻る](../README.md)
