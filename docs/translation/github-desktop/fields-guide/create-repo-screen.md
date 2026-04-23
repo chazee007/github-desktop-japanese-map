@@ -56,3 +56,6 @@ GitHub Desktop の **Create a New Repository** 画面のフィールド説明で
 - [Add Existing Repository Screen](add-existing-screen.md)
 
 --
+---
+
+[← トップページに戻る](../README.md)
