@@ -197,7 +197,12 @@ commit と push の違いが分からないと
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Commit to main」画面のスクショを挿入）
-![alt text](<commit-guide - コピー.png>)
+### 画面スクショ
+
+<img src="commit-guide - コピー-.png" width="800">
+
+
+
 ---
 
 ## コミットとは？
