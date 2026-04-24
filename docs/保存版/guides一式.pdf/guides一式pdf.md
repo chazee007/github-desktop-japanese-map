@@ -1,3 +1,5 @@
+
+
 # GitHub Desktop 操作ガイド 一式（保存版）
 
 このPDFは、GitHub Desktop の基本操作5つを  
@@ -105,7 +107,6 @@ GitHub Desktop を使い始める最初のステップで、ここを理解す�
 - README チェック欄のスクショ  
 
 ---
-
 <div style="page-break-after: always;"></div>
 
 ## 2. リポジトリのクローン（clone-guide）
