@@ -249,7 +249,7 @@ Push が必要です。
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Push origin」画面のスクショを挿入）
-
+![alt text](push-guide.md-pushu_orgin.png)
 ---
 
 ## Push の基本
