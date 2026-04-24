@@ -358,5 +358,8 @@ main を壊さずに作業したいときに使う。
 以上が **GitHub Desktop 操作ガイド 一式（保存版）** の完全整形版です。
 
 🔙 戻る  
+---
+
+# 🔙 戻る（GitHub Desktop 日本語マップへ）
 https://github.com/charjee/github-desktop-japanese-map/tree/main/docs/translation/github-desktop
 
