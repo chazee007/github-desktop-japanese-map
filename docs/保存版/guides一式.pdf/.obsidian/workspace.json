@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "ea39a18dab4dad25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a9c002ada7cea68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2869b424dc5de5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "guides一式pdf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "guides一式pdf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "330657dfbf80607f",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7b765923754945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4305785773d38d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "a430842d1a93cde0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "a9dab30b9be05565",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0097ea91aaf26478",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ec1461c2d7cda01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48807f9b020b8b82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fields-guide 用：スクリーンショット挿入テンプレート.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "fields-guide 用：スクリーンショット挿入テンプレートへのバックリンク"
+            }
+          },
+          {
+            "id": "3f72d36a98d0d2e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "fields-guide 用：スクリーンショット挿入テンプレート.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "fields-guide 用：スクリーンショット挿入テンプレートからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "0260d3e9638c45d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "5c36d4893bb67a40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "36969fb51be6a01d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fields-guide 用：スクリーンショット挿入テンプレート.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "fields-guide 用：スクリーンショット挿入テンプレートのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "3b4305785773d38d",
+  "lastOpenFiles": [
+    "GitHub Desktop 日本語操作マニュアル.md",
+    "fields-guide 用：スクリーンショット挿入テンプレート.md"
+  ]
+}
