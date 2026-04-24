@@ -300,7 +300,7 @@ main を壊さずに作業したいときに使う。
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Current Branch」メニューのスクショを挿入）
-
+![alt text](<Current Branch-Tab.png>)
 ---
 
 ## ブランチとは？
