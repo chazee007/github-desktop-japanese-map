@@ -127,7 +127,7 @@ GitHub 上の既存リポジトリを
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Clone a repository」画面のスクショを挿入） 
 （GitHub Desktop → File → Clone Repository）
-
+![alt text](<Clone Repository-up-1.png>)
 ---
 
 ## 入力欄ガイド
