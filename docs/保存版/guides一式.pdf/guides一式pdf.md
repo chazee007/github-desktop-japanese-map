@@ -19,7 +19,8 @@ GitHub Desktop を使い始める最初のステップで、ここを理解す�
 ## 📷 画面スクショ  
 （ここに画面スクショを挿入）
 （GitHub Desktop → File → New Repository）
-![alt text](./create-repo-screen-up-1.png)
+![[alt text](create-repo-screen-up-1.png)]
+
 ---
 
 ## 入力欄ガイド
