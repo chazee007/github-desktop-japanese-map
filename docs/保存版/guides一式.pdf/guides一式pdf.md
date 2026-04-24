@@ -2,25 +2,19 @@
 
 このPDFは、GitHub Desktop の基本操作5つを  
 「推奨の読み順」で1冊にまとめた保存版です。
-
----
-
 <div style="page-break-after: always;"></div>
+---
 
 ## 1. 新規リポジトリ作成  
 GitHub Desktop を使い始める最初のステップです。
 
-
 GitHub Desktop を使い始める最初のステップで、ここを理解すると後の操作がスムーズになります。
-
 
 ---
 
 ## 📷 画面スクショ  
-（ここに画面スクショを挿入）
 （GitHub Desktop → File → New Repository）
-![alt text](create-repo-screen-up-1.png)
-
+<img src="create-repo-screen-up-1.png" width="600">
 ---
 
 ## 入力欄ガイド
@@ -103,7 +97,6 @@ GitHub Desktop を使い始める最初のステップで、ここを理解す�
 - 後継者が見ても理解できる構造にする  
 ・プロジェクトごとにフォルダを分ける（後継者が迷わないため）
 
-
 ---
 
 ## 追加スクショ枠
@@ -127,8 +120,7 @@ GitHub 上の既存リポジトリを
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Clone a repository」画面のスクショを挿入） 
-（GitHub Desktop → File → Clone Repository）
-![alt text](<Clone Repository-up-1.png>)
+<img src="Clone Repository-up-1.png" width="600">
 ---
 
 ## 入力欄ガイド
@@ -252,7 +244,7 @@ Push が必要です。
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Push origin」画面のスクショを挿入）
-![alt text](push-guide.md-pushu_orgin.png)
+<img src="push-guide.md-pushu_orgin.png" width="600">
 ---
 
 ## Push の基本
@@ -303,7 +295,7 @@ main を壊さずに作業したいときに使う。
 
 ## 📷 画面スクショ  
 （※ ここにあなたが撮った「Current Branch」メニューのスクショを挿入）
-![alt text](<Current Branch-Tab.png>)
+<img src="Current Branch-Tab.png" width="600">
 ---
 
 ## ブランチとは？
