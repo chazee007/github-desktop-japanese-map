@@ -7,7 +7,9 @@
 
 <div style="page-break-after: always;"></div>
 
-# 1. 新規リポジトリ作成（new-repo-guide）
+## 1. 新規リポジトリ作成  
+GitHub Desktop を使い始める最初のステップです。
+
 
 最初の設定でつまずくと、その後すべての操作が分からなくなります。  
 ここは最初に確実に通過しておくポイントです。
@@ -15,7 +17,7 @@
 ---
 
 ## 📷 画面スクショ  
-※ ここにあなたが撮ったスクショを貼る  
+（ここに画面スクショを挿入）
 （GitHub Desktop → File → New Repository）
 
 ---
@@ -110,7 +112,7 @@
 
 <div style="page-break-after: always;"></div>
 
-# 2. リポジトリのクローン（clone-guide）
+## 2. リポジトリのクローン（clone-guide）
 
 この操作で止まる人が一番多いポイントです。  
 ここを越えれば次に進めます。
@@ -121,7 +123,7 @@ GitHub 上の既存リポジトリを
 ---
 
 ## 📷 画面スクショ  
-※ ここにあなたが撮った「Clone a repository」画面のスクショを貼る  
+※ ここにあなたが撮った「Clone a repository」画面のスクショを挿入 
 （GitHub Desktop → File → Clone Repository）
 
 ---
@@ -183,7 +185,7 @@ GitHub 上の既存リポジトリを
 
 <div style="page-break-after: always;"></div>
 
-# 3. コミットの基本操作（commit-guide）
+## 3. コミットの基本操作（commit-guide）
 
 commit と push の違いが分からないと  
 「保存したのに反映されない」状態になります。
@@ -191,7 +193,7 @@ commit と push の違いが分からないと
 ---
 
 ## 📷 画面スクショ  
-※ ここにあなたが撮った「Commit to main」画面のスクショを貼る
+※ ここにあなたが撮った「Commit to main」画面のスクショを挿入
 
 ---
 
@@ -236,7 +238,7 @@ commit と push の違いが分からないと
 
 <div style="page-break-after: always;"></div>
 
-# 4. Push 操作（push-guide）
+## 4. Push 操作（push-guide）
 
 commit だけでは GitHub に反映されません。  
 Push が必要です。
@@ -244,7 +246,7 @@ Push が必要です。
 ---
 
 ## 📷 画面スクショ  
-※ ここにあなたが撮った「Push origin」画面のスクショを貼る
+※ ここにあなたが撮った「Push origin」画面のスクショを挿入
 
 ---
 
@@ -287,7 +289,7 @@ Push が必要です。
 
 <div style="page-break-after: always;"></div>
 
-# 5. ブランチ操作（branch-guide）
+## 5. ブランチ操作（branch-guide）
 
 ブランチは「作業用の別ライン」。  
 main を壊さずに作業したいときに使う。
@@ -295,7 +297,7 @@ main を壊さずに作業したいときに使う。
 ---
 
 ## 📷 画面スクショ  
-※ ここにあなたが撮った「Current Branch」メニューのスクショを貼る
+※ ここにあなたが撮った「Current Branch」メニューのスクショを挿入
 
 ---
 
@@ -355,3 +357,5 @@ main を壊さずに作業したいときに使う。
 # 📘 完了  
 以上が **GitHub Desktop 操作ガイド 一式（保存版）** の完全整形版です。
 
+🔙 戻る  
+../README.md
