@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "42f03fb8b80f763e",
+    "id": "1cae480701705c50",
     "type": "split",
     "children": [
       {
-        "id": "f3feebbc1017f6d1",
+        "id": "c01f5e071dea7e25",
         "type": "tabs",
         "children": [
           {
-            "id": "3312987e7b313342",
+            "id": "caacb0d1649585ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/保存版/guides一式.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "guides一式"
+              "title": "新規タブ"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d133dbc9f736c1a2",
+    "id": "f038c568df7b073b",
     "type": "split",
     "children": [
       {
-        "id": "a984708bd5ad9dbe",
+        "id": "292a0215d5e57610",
         "type": "tabs",
         "children": [
           {
-            "id": "033791568e6b3c0d",
+            "id": "bce178d22725b407",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "453192649c36c876",
+            "id": "6019239f05dcd9b1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "7c2584374eacfb95",
+            "id": "d1f5ecdc1a9a5e93",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 300
   },
   "right": {
-    "id": "9752d80d1270b2d9",
+    "id": "0e59b741aa9a81d4",
     "type": "split",
     "children": [
       {
-        "id": "e48e7abd3240c39e",
+        "id": "85cef045add16f51",
         "type": "tabs",
         "children": [
           {
-            "id": "372c193fe3f58dd3",
+            "id": "385d55cf443db9ee",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "📘 guides一式.md（Obsidian用テンプレート）へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
-            "id": "96a78392a64cfb1a",
+            "id": "b4a3f95fe46f1484",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "📘 guides一式.md（Obsidian用テンプレート）からのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
-            "id": "1fdc1c99e60758f3",
+            "id": "b07deaf3c4912b0c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +131,7 @@
             }
           },
           {
-            "id": "95bc31985fb41b73",
+            "id": "b75438d93abcf60f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +145,17 @@
             }
           },
           {
-            "id": "1839b3f441180c15",
+            "id": "acb3cdb9bd19923a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📘 guides一式.md（Obsidian用テンプレート）のアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -183,25 +176,6 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "3312987e7b313342",
-  "lastOpenFiles": [
-    "docs/保存版/guide一式.pdf",
-    "docs/保存版/guides一式_BackUp/commit-guide-Commit-2.png",
-    "docs/保存版/guides一式.md",
-    "docs/guides/commit-guide.md",
-    "docs/guides/guide一式.pdf",
-    "docs/保存版/guides一式_BackUp/commit-guide-Commit.png",
-    "docs/保存版/guides一式_BackUp/commit-guide-4.png",
-    "docs/保存版/guides一式_BackUp/commit-guide.png",
-    "workflow-guide.md",
-    "docs/保存版/create-Repo-screen.pdf",
-    "README-old.md",
-    "docs/保存版/guides一式_BackUp/guides一式.md",
-    "docs/guides/push-guide.md-pushu_orgin.png",
-    "docs/保存版/guides一式_BackUp/GitHub Desktop 日本語操作マニュアル.md",
-    "docs/保存版/guides一式_BackUp/Clone Repository-up.png",
-    "docs/保存版/guides一式_BackUp/guides一式pdf.md",
-    "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
-    "README.md"
-  ]
+  "active": "caacb0d1649585ad",
+  "lastOpenFiles": []
 }

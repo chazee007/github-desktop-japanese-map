@@ -145,8 +145,9 @@ commit と push の違いが分からないと
 
 ### 📷 画面スクショ
 
-<img src="commit-guide - コピー-.png" width="600">
 
+![[commit-guide.png]]
+![[commit-guide-Commit-2.png]]
 ### コミットとは？
 - 変更を記録する操作  
 - GitHub に送る前の “下書き保存”  
