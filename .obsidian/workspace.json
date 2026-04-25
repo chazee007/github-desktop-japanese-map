@@ -11,14 +11,10 @@
             "id": "3312987e7b313342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/保存版/guides一式_BackUp/guides一式pdf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "guides一式pdf"
+              "title": "新規タブ"
             }
           }
         ]
@@ -183,8 +179,11 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "3312987e7b313342",
+  "active": "033791568e6b3c0d",
   "lastOpenFiles": [
+    "docs/保存版/guides一式.md",
+    "docs/保存版/guides一式_BackUp/guides一式.md",
+    "docs/guides/push-guide.md-pushu_orgin.png",
     "docs/保存版/guides一式_BackUp/GitHub Desktop 日本語操作マニュアル.md",
     "docs/保存版/guides一式_BackUp/Clone Repository-up.png",
     "docs/保存版/guides一式_BackUp/guides一式pdf.md",
