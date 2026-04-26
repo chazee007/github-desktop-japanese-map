@@ -11,10 +11,12 @@
             "id": "3312987e7b313342",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "type": "pdf",
+              "state": {
+                "file": "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "📘 guides一式.md（Obsidian用テンプレート）"
             }
           }
         ]
@@ -165,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,6 +182,8 @@
   },
   "active": "3312987e7b313342",
   "lastOpenFiles": [
+    "docs/保存版/guides一式_BackUp/guides一式.pdf",
+    "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
     "docs/保存版/guides一式.md",
     "docs/保存版/guide一式.pdf",
     "docs/保存版/guides一式_BackUp/commit-guide-Commit-2.png",
@@ -197,7 +200,6 @@
     "docs/保存版/guides一式_BackUp/GitHub Desktop 日本語操作マニュアル.md",
     "docs/保存版/guides一式_BackUp/Clone Repository-up.png",
     "docs/保存版/guides一式_BackUp/guides一式pdf.md",
-    "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
     "README.md"
   ]
 }
