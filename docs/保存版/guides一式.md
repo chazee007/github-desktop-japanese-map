@@ -14,9 +14,6 @@ GitHub Desktop を使い始める最初のステップです。
 
 <div style="page-break-after: always;"></div>
 
-## 📷 画面スクショ（続き）
-（GitHub Desktop → File → New Repository）
-
 ## 入力欄ガイド
 
 ### 1. **Name（リポジトリ名）**
