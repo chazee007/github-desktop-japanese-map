@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3feebbc1017f6d1",
+        "id": "b0d581b63488decb",
         "type": "tabs",
         "children": [
           {
-            "id": "3312987e7b313342",
+            "id": "83e600ab63d7d57d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/保存版/guides一式3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "guides一式3"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/保存版/guides一式3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "guides一式3へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -180,10 +177,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "3312987e7b313342",
+  "active": "83e600ab63d7d57d",
   "lastOpenFiles": [
-    "docs/保存版/guides一式.md",
     "docs/保存版/guides一式3.pdf",
+    "docs/保存版/guides一式.md",
     "docs/保存版/guides一式2.pdf",
     "docs/保存版/guide一式.pdf",
     "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
