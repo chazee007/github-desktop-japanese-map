@@ -11,14 +11,12 @@
             "id": "3312987e7b313342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "docs/保存版/guides一式.md",
-                "mode": "preview",
-                "source": false
+                "file": "docs/保存版/guides一式3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "guides一式"
+              "icon": "lucide-file-text",
+              "title": "guides一式3"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/保存版/guides一式.md",
+                "file": "docs/保存版/guides一式3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "guides一式へのバックリンク"
+              "title": "guides一式3へのバックリンク"
             }
           },
           {
@@ -184,10 +182,10 @@
   },
   "active": "3312987e7b313342",
   "lastOpenFiles": [
+    "docs/保存版/guides一式.md",
     "docs/保存版/guides一式3.pdf",
     "docs/保存版/guides一式2.pdf",
     "docs/保存版/guide一式.pdf",
-    "docs/保存版/guides一式.md",
     "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
     "docs/保存版/guides一式_BackUp/guides一式.pdf",
     "docs/保存版/guides一式_BackUp/commit-guide-Commit-2.png",
