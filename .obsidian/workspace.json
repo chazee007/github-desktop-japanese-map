@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/保存版/📘 guides一式.md（Obsidian用テンプレート）.pdf",
+                "file": "docs/保存版/guides一式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📘 guides一式.md（Obsidian用テンプレート）のアウトライン"
+              "title": "guides一式のアウトライン"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "83e600ab63d7d57d",
+  "active": "1839b3f441180c15",
   "lastOpenFiles": [
     "docs/保存版/guides一式3.pdf",
     "docs/保存版/guides一式.md",

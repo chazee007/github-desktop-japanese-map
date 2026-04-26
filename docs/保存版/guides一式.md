@@ -150,6 +150,7 @@ commit と push の違いが分からないと
 
 ## 📷 画面スクショ  
 <img src="commit-guide -copy.png" width="600">
+<div style="page-break-after: always;"></div>
 
 ## コミットとは？
 - 変更を記録する操作  
