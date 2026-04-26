@@ -149,7 +149,7 @@ commit と push の違いが分からないと
 「保存したのに反映されない」状態になります。
 
 ## 📷 画面スクショ  
-<img src="commit-guide -copy.png" width="600">
+<img src="commit-guide -copy.png" width="550">
 <div style="page-break-after: always;"></div>
 
 ## コミットとは？
