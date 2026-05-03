@@ -47,7 +47,6 @@ GitHub Desktop の操作で「止まる人」をなくすために作られて�
 
 ## 📁 フォルダ構造
 
-
 🗂 リポジトリ構成
 
 github-desktop-japanese-map/
@@ -63,6 +62,18 @@ github-desktop-japanese-map/
 │   └── fields-guide-3.md
 └── README.md
 
+---
+
+## 🖼 代表スクリーンショット
+
+### 🔹 Clone Repository（リポジトリ複製）
+![Clone Repository](assets/screenshots/Clone Repository-up.png)
+
+### 🔹 Create New Repository（新規リポジトリ作成）
+![Create Repository](assets/screenshots/create-repo-screen-up.png)
+
+### 🔹 Add Local Repository（既存フォルダ追加）
+![Add Local Repository](assets/screenshots/Add Local Repository-up.png)
 
 ---
 
